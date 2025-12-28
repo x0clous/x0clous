@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @x0clous
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning front end
-- ⚡ Fun fact: I like kanye west
+- 🌱 I’m currently learning Cybersecurity
+- ⚡ Fun fact: I like Frank ocean
 
 <!---
 x0clous/x0clous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
