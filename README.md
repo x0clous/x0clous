@@ -72,5 +72,5 @@ Event Logistics • Leadership • Problem Solving
 ---
 
 <p align="center">
-✨ Always learning, always building ✨
+✨ Building, learning, and figuring things out as I go.✨
 </p>
