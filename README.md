@@ -48,8 +48,17 @@ Event Logistics • Leadership • Problem Solving
 
 ---
 ## 📊 Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0clous&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=x0clous&show_icons=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=x0clous&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/bb86fc/x0clous" alt="Ximena's Github chart" />
 </p>
 
 ---
