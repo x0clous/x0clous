@@ -80,7 +80,7 @@ Cybersecurity • Secure Systems • Leadership
 
 ## 💡 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ximena-tenorio-a30b71315/">
+  <a href="https://www.linkedin.com/in/ximenatenorio/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
