@@ -60,10 +60,9 @@ Event Logistics • Leadership • Problem Solving
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 📊 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0clous&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0clous&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
