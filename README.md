@@ -47,9 +47,9 @@ Event Logistics • Leadership • Problem Solving
 </p>
 
 ---
-
+## 📊 Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=x0clous&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0clous&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -57,12 +57,6 @@ Event Logistics • Leadership • Problem Solving
 ## 🌎 Languages
 <p align="center">
 🇲🇽 Spanish (Native) • 🇺🇸 English (B2 Upper-Intermediate)
-</p>
-
----
-## 📊 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0clous&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
