@@ -58,7 +58,7 @@ Event Logistics • Leadership • Problem Solving
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bb86fc/x0clous" alt="Ximena's Github chart" />
+  <img src="https://ghchart.rshah.org/8000ff/x0clous" />
 </p>
 
 ---
