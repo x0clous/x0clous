@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Ximena Tenorio 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=BB00FF&center=true&vCenter=true&width=950&lines=Computer+Systems+Engineering+Student;Backend+Developer;Student+Leader;Building+and+learning+as+I+go" />
+</p>
+
+---
+<p align="center">
 💻 Computer Systems Engineering Student <br>
 🎓 Universidad de Guanajuato <br>
 🌐 Backend Developer | Student Leader
