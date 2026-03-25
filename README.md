@@ -3,12 +3,12 @@
 <p align="center">
 💻 Computer Systems Engineering Student <br>
 🎓 Universidad de Guanajuato <br>
-🚀 Backend Developer | Student Leader
+🌐 Backend Developer | Student Leader
 </p>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 <p align="center">
 Passionate about backend development, problem solving, and building impactful systems. <br>
 I combine technical skills with leadership experience managing student communities and large-scale events.
@@ -47,7 +47,7 @@ Event Logistics • Leadership • Problem Solving
 </p>
 
 ---
-## 📊 Activity
+## 👾 Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x0clous&show_icons=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&hide_border=true" />
@@ -70,7 +70,7 @@ Event Logistics • Leadership • Problem Solving
 
 ---
 
-## 📫 Connect with Me
+## 💡 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ximena-tenorio-a30b71315/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
