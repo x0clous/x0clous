@@ -48,6 +48,12 @@ Event Logistics • Leadership • Problem Solving
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=x0clous&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🌎 Languages
 <p align="center">
 🇲🇽 Spanish (Native) • 🇺🇸 English (B2 Upper-Intermediate)
