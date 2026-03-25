@@ -8,8 +8,8 @@
 <p align="center">
 💻 Computer Systems Engineering Student <br>
 🎓 Universidad de Guanajuato <br>
-🌐 Backend Developer | Student 
-🔐 Currently focusing on cybersecurity and secure systems
+🌐 Backend Developer | Student <br>
+🔐 Currently focusing on cybersecurity and secure systems <br>
 </p>
 
 ---
