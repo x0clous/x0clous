@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Ximena Tenorio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=BB00FF&center=true&vCenter=true&width=950&lines=Computer+Systems+Engineering+Student;Backend+Developer;Student+Leader;Building+and+learning+as+I+go" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=BB00FF&center=true&vCenter=true&width=950&lines=Computer+Systems+Engineering+Student;Backend+Developer;Cybersecurity+Enthusiast;Student+Leader;Building+and+learning+as+I+go" />
 </p>
 
 ---
 <p align="center">
 💻 Computer Systems Engineering Student <br>
 🎓 Universidad de Guanajuato <br>
-🌐 Backend Developer | Student Leader
+🌐 Backend Developer | Student 
+🔐 Currently focusing on cybersecurity and secure systems
 </p>
 
 ---
@@ -24,7 +25,7 @@ I combine technical skills with leadership experience managing student communiti
 ## ⚙️ Engineering Focus
 <p align="center">
 Backend Development • API Design • System Logic <br>
-Event Logistics • Leadership • Problem Solving
+Cybersecurity • Secure Systems • Leadership
 </p>
 
 ---
@@ -36,6 +37,8 @@ Event Logistics • Leadership • Problem Solving
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
 <p align="center">
